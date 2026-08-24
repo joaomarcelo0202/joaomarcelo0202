@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>Hi, I'm João Marcelo 👋</h1>
-  <p><b>Software Developer | Mobile & Embedded Systems Enthusiast</b></p>
+  <!-- Banner com efeito de digitação -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Jo%C3%A3o+Marcelo;Software+Developer;Mobile+%26+Embedded+Systems" alt="Typing SVG" />
 
+  <p>Building applications across Web, Mobile, and IoT ecosystems.</p>
+
+  <!-- Botões de Redes Sociais -->
   <a href="https://www.linkedin.com/in/joaomarcelo0202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -12,37 +15,41 @@
 
 <br />
 
+---
+
 **About Me**
-* 🔭 Currently working on Web, Mobile, and IoT projects.
-* 🌱 Expanding my skills in **Flutter**, **Python**, and embedded C++.
-* 💬 Ask me about JavaScript, Dart, or Arduino systems.
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joaomarcelo0202)
+
+* 🔭 Currently developing Web, Mobile, and IoT solutions.
+* 🌱 Deepening knowledge in **Flutter**, **Python**, and **Embedded C++**.
+* 💬 Let's talk about JavaScript, Dart, or Arduino projects.
 
 ---
 
 **Tech Stack**
 
-* **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-* **Frameworks & Frontend:** 
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-* **Hardware & IoT:** 
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<div align="center">
+  <p><b>Languages & Core</b></p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  
+  <br />
+  
+  <p><b>Frameworks & IoT</b></p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</div>
 
 ---
 
-**GitHub Statistics**
+**GitHub Analytics**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaomarcelo0202&show_icons=true&theme=dracula&hide_border=true" height="165" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/languages-output/languages.svg" height="165" alt="Languages" />
 </div>
