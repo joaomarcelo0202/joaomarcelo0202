@@ -27,7 +27,7 @@ Desenvolvedor de software focado em aplicações **Web, Mobile e Sistemas Embarc
 
 <br />
 
-### 📊 Estatísticas
+###
 <div align="center">
   <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/stats-output/stats.svg" height="150" alt="Estatísticas" />
   <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/languages-output/languages.svg" height="150" alt="Linguagens" />
