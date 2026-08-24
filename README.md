@@ -14,7 +14,7 @@
 <br />
 
 ### 🔭 Sobre Mim
-Desenvolvedor de software focado em aplicações **Web, Mobile e Sistemas Embarcados (IoT)**. Aprofundando estudos em **Flutter**, **Python** e **C++**.
+Engenheiro e Desenvolvedor de software focado em aplicações **Web, Mobile e Sistemas Embarcados (IoT)**. Aprofundando estudos em **Php**, **Python** e **C++**.
 
 <br />
 
