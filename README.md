@@ -14,7 +14,7 @@
 <br />
 
 ### 🔭 Sobre Mim
-Engenheiro e Desenvolvedor de software focado em aplicações **Web, Mobile e Sistemas Embarcados (IoT)**. Aprofundando estudos em **Php**, **Python** e **C++**.
+Desenvolvedor de software focado em aplicações **Web, Mobile e Sistemas Embarcados (IoT)**. Aprofundando estudos em **Flutter**, **Python** e **C++**.
 
 <br />
 
@@ -24,11 +24,3 @@ Engenheiro e Desenvolvedor de software focado em aplicações **Web, Mobile e Si
     <img src="https://skillicons.dev/icons?i=js,python,dart,cpp,java,php,flutter,html,css,arduino&theme=dark&perline=10" alt="Tecnologias" />
   </a>
 </p>
-
-<br />
-
-###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/stats-output/stats.svg" height="150" alt="Estatísticas" />
-  <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/languages-output/languages.svg" height="150" alt="Linguagens" />
-</div>
