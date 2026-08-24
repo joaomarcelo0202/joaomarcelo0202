@@ -29,6 +29,6 @@ Desenvolvedor de software focado em aplicações **Web, Mobile e Sistemas Embarc
 
 ### 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaomarcelo0202&show_icons=true&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcelo0202&layout=compact&theme=dracula&locale=pt-br&hide_border=true&langs_count=5" height="150" alt="Linguagens" />
+  <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/stats-output/stats.svg" height="150" alt="Estatísticas" />
+  <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/languages-output/languages.svg" height="150" alt="Linguagens" />
 </div>
