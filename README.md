@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Banner com efeito de digitação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=79C0FF&background=00000000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Jo%C3%A3o+Marcelo;Software+Developer;Mobile+%26+Embedded+Systems" alt="Typing SVG" />
+  <!-- Banner animado em Português -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=79C0FF&background=00000000&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o+Marcelo+%F0%9F%90%8B;Desenvolvedor+de+Software;Mobile+%26+Sistemas+Embarcados" alt="Typing SVG" />
 
-  <p>Building applications across Web, Mobile, and IoT ecosystems.</p>
+  <p>Desenvolvendo aplicações para ecossistemas Web, Mobile e IoT.</p>
 
-  <!-- Botões de Redes Sociais no Estilo da Camila -->
+  <!-- Redes Sociais -->
   <a href="https://www.linkedin.com/in/joaomarcelo0202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -17,31 +17,31 @@
 
 ---
 
-<!-- Seção Sobre Mim Centralizada e Mais Pessoal -->
+<!-- Sobre Mim -->
 <div align="center">
-  <h3>🔭 About Me</h3>
-  <p>I'm a passionate software developer dedicated to crafting efficient and scalable solutions. My interests lie in the intersection of Web development, Mobile applications, and the fascinating world of Embedded Systems and IoT.</p>
-  <p>I'm currently focused on expanding my skills in <b>Flutter</b>, <b>Python</b>, and embedded C++ projects.</p>
+  <h3>🔭 Sobre Mim</h3>
+  <p>Sou um desenvolvedor de software focado em criar soluções eficientes e escaláveis. Minha atuação abrange desenvolvimento Web, aplicativos Mobile e Sistemas Embarcados (IoT).</p>
+  <p>Atualmente, estou aprofundando meus conhecimentos em <b>Flutter</b>, <b>Python</b> e <b>C++ para embarcados</b>.</p>
 </div>
 
 <br />
 
 ---
 
-<!-- Seção Tech Stack Centralizada e Categorizada com Ícones Uniformes -->
+<!-- Tecnologias -->
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
+  <h3>🛠️ Tecnologias & Ferramentas</h3>
 
-  <p><b>Languages & Core</b></p>
+  <p><b>Linguagens Principais</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,dart,cpp,java,php&theme=dark" alt="Core Languages" />
+    <img src="https://skillicons.dev/icons?i=js,python,dart,cpp,java,php&theme=dark" alt="Linguagens" />
   </a>
   
   <br /><br />
   
-  <p><b>Frameworks & Hardware</b></p>
+  <p><b>Frameworks, Web & Hardware</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,html,css,arduino&theme=dark" alt="Frameworks & IoT" />
+    <img src="https://skillicons.dev/icons?i=flutter,html,css,arduino&theme=dark" alt="Frameworks e IoT" />
   </a>
 </div>
 
@@ -49,26 +49,19 @@
 
 ---
 
-<!-- Seção GitHub Analytics Lado a Lado Centralizada -->
+<!-- Estatísticas usando as automações do seu GitHub Actions -->
 <div align="center">
-  <h3>GitHub Analytics</h3>
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=joaomarcelo0202&show_icons=true&theme=dracula&title_color=79C0FF&icon_color=8be9fd&hide_border=false" height="150" alt="GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcelo0202&layout=compact&theme=dracula&title_color=79C0FF&icon_color=8be9fd&hide_border=false&langs_count=5" height="150" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <h3>📊 Estatísticas do GitHub</h3>
+  <br />
+  <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/stats-output/stats.svg" height="165" alt="Estatísticas Gerais" />
+  <img src="https://raw.githubusercontent.com/joaomarcelo0202/joaomarcelo0202/languages-output/languages.svg" height="165" alt="Linguagens Mais Usadas" />
 </div>
-
-<hr />
 
 <br />
 
-<!-- Gráfico de Atividade no Final -->
+---
+
+<!-- Sequência de Commits (Streak em Português) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaomarcelo0202&theme=dracula&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaomarcelo0202&theme=dracula&locale=pt_BR&hide_border=false" alt="Sequência de Commits" />
 </div>
